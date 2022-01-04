@@ -1,4 +1,2 @@
-*.js linguist-language=html 
-*.css linguist-language=html
-*.html linguist-language=html  
-*.java linguist-language=html 
+*.jar linguist-language=html 
+*.zip linguist-language=html
